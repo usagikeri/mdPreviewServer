@@ -9,12 +9,24 @@
 
 
 # Requirement
+* flask  
+  ```
+  $pip install flask
+  ```
+* pandoc
 
 ## osX
 
 ## Ubuntu
-
-## FreeBSD
-
+```
+sudo apt-get install pandoc
+```
 
 # Usage
+```
+$make run
+```
+
+# Author
+* github [usagikeri](https://github.com/usagikeri)
+* Twitter @usagikeri
